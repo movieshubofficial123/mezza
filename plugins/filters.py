@@ -72,7 +72,7 @@ async def filter(client: Bot, message: Message):
 
         await message.reply_text(
                 photo="https://telegra.ph/file/3ccccbdb70ca3fb14db06.jpg",
-                caption=f"<b>👻Requested By:- {update.from_user.mention} \n\n✔Requested Movie:- <code>{query}</code> \n\n💫Powered By:- @movies_Huubh2 <b>",
+                f"<b> Here is the result for {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
