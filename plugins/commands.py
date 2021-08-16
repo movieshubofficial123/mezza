@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🔰 JOIN OUR CHANNEL 🔰", url="https://t.me/movies_Hubh")
+                            "🔰 JOIN OUR CHANNEL 🔰", url="https://t.me/MH_Newrelease1")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🔰 SUPPORT 🔰", url="https://t.me/movies_Hubh")
+                            "🔰 SUPPORT 🔰", url="https://t.me/movies_Hubh2")
                     ]
                 ]
             ),
